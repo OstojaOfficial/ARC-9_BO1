@@ -210,7 +210,7 @@ SWEP.ReloadTime = 1
 
 SWEP.Crosshair = false
 SWEP.MissileCrosshair = true
-SWEP.CanBlindFire = false
+SWEP.CanBlindFire = true
 
 SWEP.Recoil = 0.1
 SWEP.RecoilSide = 0.1

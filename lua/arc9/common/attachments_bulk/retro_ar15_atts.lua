@@ -1495,7 +1495,7 @@ ATT.FiremodesOverride = {
         Mode = 1,
     },
 }
-ATT.RunawayBurstOverride = true
+ATT.RunawayBurstOverride = false
 ATT.PostBurstDelayOverride = 0.2
 
 ATT.SpreadMult = 0.9
@@ -1570,7 +1570,7 @@ ATT.FiremodesOverride = {
         Mode = 1,
     },
 }
-ATT.RunawayBurstOverride = true
+ATT.RunawayBurstOverride = false
 ATT.PostBurstDelayOverride = 0.2
 
 ATT.RPMMult = 1.1

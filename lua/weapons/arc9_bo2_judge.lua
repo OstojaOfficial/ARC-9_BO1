@@ -70,7 +70,7 @@ SWEP.HybridReload = true
 SWEP.ShotgunReload = false
 
 SWEP.Crosshair = true
-SWEP.CanBlindFire = false
+SWEP.CanBlindFire = true
 
 SWEP.Recoil = 1
 SWEP.RecoilSide = 0.7

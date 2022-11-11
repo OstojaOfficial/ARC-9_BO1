@@ -73,7 +73,7 @@ SWEP.ReloadTime = 1
 SWEP.AutoReload = true
 
 SWEP.Crosshair = true
-SWEP.CanBlindFire = false
+SWEP.CanBlindFire = true
 
 SWEP.Recoil = 1
 SWEP.RecoilSide = 0.75

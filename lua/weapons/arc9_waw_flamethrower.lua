@@ -81,7 +81,7 @@ SWEP.HeatLockout = true -- overheating means you cannot fire until heat has been
 SWEP.HeatDelayTime = 0.5 -- Amount of time that passes before heat begins to dissipate.
 
 SWEP.Crosshair = true
-SWEP.CanBlindFire = false
+SWEP.CanBlindFire = true
 
 SWEP.Recoil = 0.4
 SWEP.RecoilSide = 0.4
